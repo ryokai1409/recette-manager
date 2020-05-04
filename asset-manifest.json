@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/recette-manager/static/css/main.7e870e2b.chunk.css",
+    "main.js": "/recette-manager/static/js/main.f7fc8193.chunk.js",
+    "main.js.map": "/recette-manager/static/js/main.f7fc8193.chunk.js.map",
+    "runtime-main.js": "/recette-manager/static/js/runtime-main.ec0979c6.js",
+    "runtime-main.js.map": "/recette-manager/static/js/runtime-main.ec0979c6.js.map",
+    "static/js/2.35ddcb49.chunk.js": "/recette-manager/static/js/2.35ddcb49.chunk.js",
+    "static/js/2.35ddcb49.chunk.js.map": "/recette-manager/static/js/2.35ddcb49.chunk.js.map",
+    "index.html": "/recette-manager/index.html",
+    "precache-manifest.10df4983696cc17af5bf79f0421d5652.js": "/recette-manager/precache-manifest.10df4983696cc17af5bf79f0421d5652.js",
+    "service-worker.js": "/recette-manager/service-worker.js",
+    "static/css/main.7e870e2b.chunk.css.map": "/recette-manager/static/css/main.7e870e2b.chunk.css.map",
+    "static/js/2.35ddcb49.chunk.js.LICENSE.txt": "/recette-manager/static/js/2.35ddcb49.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/recette-manager/static/media/waltographUI.ef6f8e59.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec0979c6.js",
+    "static/js/2.35ddcb49.chunk.js",
+    "static/css/main.7e870e2b.chunk.css",
+    "static/js/main.f7fc8193.chunk.js"
+  ]
+}
